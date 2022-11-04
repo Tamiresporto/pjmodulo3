@@ -1,0 +1,32 @@
+{
+    "tatuagens": [
+        {
+            "id": 1,
+            "nome": "Aquarela",
+            "descricao": "um dos estilos queridinhos do momento por sua suavidade. Assim como se faz pinta aquarela em telas, a tattoo é feita com tinta diluída e possui cores brandas, muitas vezes sem contornos definidos, como se fossem pinceladas mesmo.",
+            "preco": 250.0,
+            "categoria_id": 1
+        },
+        {
+            "id": 2,
+            "nome": "Realismo",
+            "descricao": "Retratar fotos e faces com exatidão. Quem busca por esse tipo de tattoo deve ter cuidado, pois o desenho precisa ser perfeito! Costuma ser sombreada, ter traços complexos e em preto e branco. Normalmente são tattoos de maiores tamanhos e é preciso ter cuidado redobrado durante a cicatrização",
+            "preco": 300.0,
+            "categoria_id": 1
+        },
+        {
+            "id": 3,
+            "nome": "tribais",
+            "descricao": "Essas tatuagens também podiam representar a riqueza das pessoas e os desenhos podiam ser muito simples ou então muito elaborados.",
+            "preco": 200.0,
+            "categoria_id": 1
+        },
+        {
+            "id": 4,
+            "nome": "Minimalista",
+            "descricao": "Para a tatuagem minimalista, menos é sempre mais. A técnica consiste em passar uma ideia sem que seja necessário que todos os traços estejam desenhados, meio que para o seu cérebro e criatividade preencherem o resto.",
+            "preco": 100.0,
+            "categoria_id": 1
+        }
+    ]
+}
